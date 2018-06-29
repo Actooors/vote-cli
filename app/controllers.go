@@ -2,7 +2,7 @@ package app
 
 import (
 	"github.com/gin-gonic/gin"
-	"vote-cli/tools"
+	"github.com/Actooors/vote-cli/tools"
 )
 
 func ClearHandler(ctx *gin.Context) {

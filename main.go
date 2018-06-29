@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"github.com/tidwall/gjson"
 	"fmt"
-	"vote-cli/app"
+	"github.com/Actooors/vote-cli/app"
 )
 
 func main() {
