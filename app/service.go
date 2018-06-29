@@ -1,7 +1,7 @@
 package app
 
 import (
-	"vote-cli/dao"
+	"github.com/Actooors/vote-cli/dao"
 	"io/ioutil"
 	"github.com/tidwall/gjson"
 	"errors"
